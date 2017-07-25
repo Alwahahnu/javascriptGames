@@ -103,7 +103,12 @@ function jeu(){
 	
 	var reponse = Math.floor((Math.random()*20)+10);
 	
-	var reponse = Math.floor((Math.random() * 10)+11);
+	function jeu(){
+		
+		do{	
+		var quest = prompt("devine le nombre entre 10 et 20 ");
+		
+		//console.log(quest);
 	
 	console.log(reponse);
 	
