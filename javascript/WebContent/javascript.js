@@ -103,6 +103,8 @@ function jeu(){
 	
 	var reponse = Math.floor((Math.random()*20)+10);
 	
+	var reponse = Math.floor((Math.random() * 10)+11);
+	
 	console.log(reponse);
 	
 	do{
