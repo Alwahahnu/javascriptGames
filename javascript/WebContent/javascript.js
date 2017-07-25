@@ -115,3 +115,5 @@ function jeu(){
 	
 	alert("gg");
 	}
+
+//commentaire
