@@ -76,6 +76,7 @@ function apparait() {
 	}
 
 }
+//commentaire inutile
 
 function monter(){
 	
