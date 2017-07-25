@@ -1,0 +1,62 @@
+#carre{
+	margin-right:auto;
+	margin-left:auto;
+	width:100px;
+	height:100px;
+	background-color:blue;
+	
+}
+
+
+.enLigne{
+	display:flex;
+	margin-left:auto;
+	margin-rigth:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+  background: #d9c334;
+  background-image: -webkit-linear-gradient(top, #d9c334, #b82b2b);
+  background-image: -moz-linear-gradient(top, #d9c334, #b82b2b);
+  background-image: -ms-linear-gradient(top, #d9c334, #b82b2b);
+  background-image: -o-linear-gradient(top, #d9c334, #b82b2b);
+  background-image: linear-gradient(to bottom, #d9c334, #b82b2b);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 40px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #dffc3c;
+  background-image: -webkit-linear-gradient(top, #dffc3c, #d96e34);
+  background-image: -moz-linear-gradient(top, #dffc3c, #d96e34);
+  background-image: -ms-linear-gradient(top, #dffc3c, #d96e34);
+  background-image: -o-linear-gradient(top, #dffc3c, #d96e34);
+  background-image: linear-gradient(to bottom, #dffc3c, #d96e34);
+  text-decoration: none;
+}
